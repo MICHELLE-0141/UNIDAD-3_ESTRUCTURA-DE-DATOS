@@ -1,0 +1,4 @@
+C:\Users\alumno\source\repos\PROYECTO 1\PROYECTO 1\obj\Debug\net10.0\PROYECTO 1_CLINICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\source\repos\PROYECTO 1\PROYECTO 1\obj\Debug\net10.0\PROYECTO 1_CLINICA.AssemblyInfoInputs.cache
+C:\Users\alumno\source\repos\PROYECTO 1\PROYECTO 1\obj\Debug\net10.0\PROYECTO 1_CLINICA.AssemblyInfo.cs
+C:\Users\alumno\source\repos\PROYECTO 1\PROYECTO 1\obj\Debug\net10.0\PROYECTO 1_CLINICA.csproj.CoreCompileInputs.cache
