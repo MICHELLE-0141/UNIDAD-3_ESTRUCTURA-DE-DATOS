@@ -1,2 +1,18 @@
 # UNIDAD-3_ESTRUCTURA-DE-DATOS
-UNIDAD 3
+
+# UNIDAD 3
+
+# Datos del alumno
+
+NOMBRE: Anel Michelle Marinez Martinez
+
+NUMERO DE CONTROL: 25410141
+
+CARRERA: INGENERIA EN SISTEMAS COMPUTACIONALES
+
+SEMESTRE: Tercer Semestre
+
+MATERIA: Estructura de Datos
+
+DOCENTE: MSC Myrna Villegas Gaytan
+
