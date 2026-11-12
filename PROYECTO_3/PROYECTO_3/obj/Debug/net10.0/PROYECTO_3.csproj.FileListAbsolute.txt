@@ -1,0 +1,4 @@
+C:\Users\alumno\source\repos\PROYECTO_3\PROYECTO_3\obj\Debug\net10.0\PROYECTO_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\source\repos\PROYECTO_3\PROYECTO_3\obj\Debug\net10.0\PROYECTO_3.AssemblyInfoInputs.cache
+C:\Users\alumno\source\repos\PROYECTO_3\PROYECTO_3\obj\Debug\net10.0\PROYECTO_3.AssemblyInfo.cs
+C:\Users\alumno\source\repos\PROYECTO_3\PROYECTO_3\obj\Debug\net10.0\PROYECTO_3.csproj.CoreCompileInputs.cache
